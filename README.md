@@ -46,7 +46,8 @@
 </div>
 
 
-👉 [Check Repository Here](https://github.com/lovefield22/FoodLoop-Flutter-Project)
+👉 [Check Repository Here](https://github.com/lovefield22/foodloop_project
+)
 
 ---
 
