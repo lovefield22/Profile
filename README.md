@@ -34,11 +34,17 @@
 - 🔗 Backend powered by **Spring Boot & REST API**  
 - 🚚 Real-time order management & food delivery system  
 
-<p align="center">
-  <img src="images/foodloop.png" alt="FoodLoop App" width="300" style="border-radius:15px;"/>
-  <img src="images/foodloop1.png" alt="FoodLoop App" width="300" style="border-radius:15px;"/>
-  <img src="images/foodloop2.png" alt="FoodLoop App" width="300" style="border-radius:15px;"/>
-</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; justify-items: center; margin: 16px 0;">
+  <img src="admin_dash.png" alt="Admin Dashboard" style="width:220px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" />
+  <img src="approve.png" alt="Approve Orders" style="width:220px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" />
+  <img src="consumer_home.png" alt="Consumer Home" style="width:220px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" />
+  <img src="consumer_order.png" alt="Consumer Orders" style="width:220px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" />
+  <img src="seller_home.png" alt="Seller Home" style="width:220px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" />
+  <img src="seller_menu.png" alt="Seller Menu" style="width:220px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" />
+  <img src="seller_orders.png" alt="Seller Orders" style="width:220px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" />
+  <img src="flutter_01.png" alt="Flutter UI" style="width:220px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" />
+</div>
+
 
 👉 [Check Repository Here](https://github.com/lovefield22/FoodLoop-Flutter-Project)
 
